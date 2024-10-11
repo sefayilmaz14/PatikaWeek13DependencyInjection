@@ -1,0 +1,6 @@
+@PatikaWeek13DependencyInjection_HostAddress = http://localhost:5245
+
+GET {{PatikaWeek13DependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
